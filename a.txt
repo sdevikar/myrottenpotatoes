@@ -1,1 +1,2 @@
 This is a new version of a.txt
+Edited after creating a remote git repo
